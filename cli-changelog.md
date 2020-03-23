@@ -35,3 +35,4 @@ When you log in to the [{{site.data.keyword.cloud_notm}} CLI](/docs/cli?topic=cl
 | Version | Release date | Changes |
 | ---- | --- | --- |
 | `0.3.9` | 11 November 2019 | Update usage information for all `ibmcloud kp` commands and subcommands.<br>Fix bug in the JSON output format option (`--output json`) for all commands. |
+| `0.4.0` | 20 March 2020 | Restructure `ibmcloud kp` commands and subcommands. |
